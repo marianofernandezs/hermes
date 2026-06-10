@@ -17,7 +17,7 @@ The initial target platform is macOS on Apple Silicon.
 
 ## Status
 
-OpenMinutes is in early architecture and foundation development.
+Hermes is in early architecture and foundation development.
 
 Do not use it yet for sensitive or production meetings.
 
